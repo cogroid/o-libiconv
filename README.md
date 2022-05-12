@@ -6,3 +6,5 @@
 
 * [Source Package: libiconv (1.16)](https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.16.tar.gz)
 
+---
+[Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
